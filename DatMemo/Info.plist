@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PressStart2P.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+		<string>voip</string>
+	</array>
+	<key>aps-environmen</key>
+	<string>development</string>
+	<key>com.apple.developer.mobile.usermanager</key>
+	<true/>
+	<key>com.apple.developer.networking.networkextension</key>
+	<true/>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<true/>
+	<key>com.apple.developer.pushkit.unrestricted-voi</key>
+	<true/>
+	<key>com.apple.developer.runningboard.assertions.frontboard</key>
+	<true/>
+	<key>com.apple.developer.runningboard.process-state</key>
+	<true/>
+	<key>com.apple.developer.usernotifications.core</key>
+	<true/>
+	<key>com.apple.mobile.usermanagerd.xpc</key>
+	<true/>
+	<key>com.apple.runningboard.assertions.frontboard</key>
+	<true/>
+	<key>com.apple.runningboard.primitiveattribute</key>
+	<true/>
+	<key>com.apple.runningboard.process-state</key>
+	<true/>
+	<key>com.apple.runningboard.trustedtarget</key>
+	<true/>
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+</dict>
+</plist>
